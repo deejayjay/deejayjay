@@ -1,4 +1,4 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|GitHub Stats|Most Used Languages|
 |--------|-------|
 |[![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deejayjay&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)|
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deejayjay&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)|
