@@ -1,4 +1,4 @@
-[![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deejayjay)](https://github.com/anuraghazra/github-readme-stats)
+[![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deejayjay&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m Deepak Joy Jose | deejayjay on GitHub
 - 👀 I’m interested in coding, travelling and photography
