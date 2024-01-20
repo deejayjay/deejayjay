@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Deepak Joy Jose | deejayjay on GitHub
-- 👀 I’m interested in coding, travelling and photography
-- 💞️ I’m looking to collaborate on interesting projects where I can also get valuable experience
-- 📫 How to reach me => deejayjay@zoho.com | deejayjay on GitHub
+- 👋 Hi, I’m Deepak Joy Jose | [deejayjay](https://github.com/deejayjay) on GitHub.
+- I am a Full-stack Developer based in Edmonton, Canada.
+- 👀 Besides coding, I’m interested in travelling and photography.
+- 💞️ I’m looking to collaborate on interesting projects from which I can get valuable experience.
+- 📫 Reach out to me at deejayjay@zoho.com.
